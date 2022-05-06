@@ -2,7 +2,7 @@
 
 #### 优秀影视排行榜（豆瓣前十名）
 
-###### 点击影片名可跳转至腾讯视频观影！
+###### 点击影片名即可跳转至腾讯视频观影！
 
 > [1.肖申克的救赎 The Shawshank Redemption (1994)](https://v.qq.com/x/cover/1o29ui77e85grdr/h0022ah1yrf.html)</br>
 ![](https://cdn.jsdelivr.net/gh/filess/img17@main/2022/05/06/1651829281152-95a3aea5-0dba-4fda-b913-77ce0f4b281f.jpg)</br>
