@@ -112,7 +112,7 @@
 片长: 148分钟</br>
 又名: 潜行凶间(港) / 全面启动(台) / 奠基 / 心灵犯案 / 记忆迷阵 / 记忆魔方
 
-> [10.忠犬八公的故事 Hachi: A Dog's Tale (2009)](https://www.tuoluoys.com/luo/14394.html)</br>
+> 10.忠犬八公的故事 Hachi: A Dog's Tale (2009)</br>
 ![](https://cdn.jsdelivr.net/gh/filess/img19@main/2022/05/06/1651831413218-6eba4fa5-fe95-4908-9b59-b68cfbe1ca09.jpg)</br>
 简介：永远不能忘记你所爱的人。</br>
 > 评分：9.4分</br>
