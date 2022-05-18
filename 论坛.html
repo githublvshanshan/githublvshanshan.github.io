@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+		<link rel=" stylesheet" tye="text/css" href="css/about.css">
+
+		<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+
+
+	</head>
+	<body>
+		<div id="header">
+			<a href="主页.html"><div id="dao1"><p>主页</p></div></a>
+			<a href="论坛.html"><div id="dao2"><p>论坛</p></div></a>
+			<a href="技能.html"><div id="dao3"><p>技能</p></div></a>
+			<a href="作品.html"><div id="dao4"><p>作品</p></div></a>
+			<a href="关注我.html"><div id="dao5"><p>关注我</p></div></a>
+		</div>
+		<div id="content">
+			<div id="wenzi"><p><br>欢迎发表影评</p></div>
+			<div id="gitalk-container"></div>
+		</div>
+		<div id="footer"><p>泡泡吃瓜影视</p></div>
+		<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+		<script>
+			const gitalk = new Gitalk({
+				clientID: 'fac7ff63ee1ec94ac797',
+				clientSecret: '0a5689af998f5f0c9ec7d8a49ed9b49845c37f64',
+				repo: 'githublvshanshan.github.io',
+				owner: 'githublvshanshan',
+				admin: ['githublvshanshan'],
+				// facebook-like distraction free mode
+				distractionFreeMode: false,
+				id: decodeURI(location.pathname)
+			})
+			gitalk.render('gitalk-container')
+		</script>
+	</body>
+</html>
